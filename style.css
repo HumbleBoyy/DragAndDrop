@@ -16,4 +16,12 @@
     background: rgb(228, 161, 4);
     cursor: pointer;
     position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title{
+    font-size: 10rem;
+    color: white;
 }
