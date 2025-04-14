@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: #212228;
+    height: 100vh;
+    background-size: 4em 4em;
+}
+
+.card{
+    width: 400px;
+    height: 400px;
+    background: rgb(228, 161, 4);
+    cursor: pointer;
+    position: fixed;
+}
