@@ -47,3 +47,11 @@
 .draggable.dragging{
     opacity: .5;
 }
+
+.reiszeIt{
+    overflow: auto;
+    resize: both;
+    max-width: 900px;
+    padding: 2rem;
+    border: 2px solid #ff0000;
+}
